@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.App{
+  color: #e11b95;
+}
+i{
+  cursor: pointer;
+}
